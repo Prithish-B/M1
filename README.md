@@ -37,7 +37,8 @@ int main() {
 
 ## OUTPUT:
 
-![alt text](C-1.png)
+<img width="1920" height="1139" alt="C-1" src="https://github.com/user-attachments/assets/1a43d0c8-f412-4b8f-8a04-bef795114b0d" />
+
 
 ## RESULT:
 
